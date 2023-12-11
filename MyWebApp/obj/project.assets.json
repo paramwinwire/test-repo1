@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Githubtrainning\\test-repo1\\test-repo1\\.github\\workflows\\actions\\custom-setup-dotnet7\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "D:\\Githubtrainning\\test-repo1\\test-repo1\\MyWebApp\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "D:\\Githubtrainning\\test-repo1\\test-repo1\\.github\\workflows\\actions\\custom-setup-dotnet7\\MyWebApp\\MyWebApp.csproj",
+      "projectPath": "D:\\Githubtrainning\\test-repo1\\test-repo1\\MyWebApp\\MyWebApp.csproj",
       "packagesPath": "C:\\Users\\ParameshRajappan\\.nuget\\packages\\",
-      "outputPath": "D:\\Githubtrainning\\test-repo1\\test-repo1\\.github\\workflows\\actions\\custom-setup-dotnet7\\MyWebApp\\obj\\",
+      "outputPath": "D:\\Githubtrainning\\test-repo1\\test-repo1\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ParameshRajappan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "42YD4Xer1Fam1ft+SrFZTuc+YRWYAR2pPfnCugqxhyvtRM7WJH37GW0lHrMaKZM+eq9+j4SlVUyT5kZdDlqgsw==",
+  "dgSpecHash": "UNMplP59j+Li/3dIVHe4uUJy/rGcp/WkR4s25raZwPTSdu7ImRftECiPw0WbcKrQtWzO6rLne9yPxVGF4h2kHg==",
   "success": true,
-  "projectFilePath": "D:\\Githubtrainning\\test-repo1\\test-repo1\\.github\\workflows\\actions\\custom-setup-dotnet7\\MyWebApp\\MyWebApp.csproj",
+  "projectFilePath": "D:\\Githubtrainning\\test-repo1\\test-repo1\\MyWebApp\\MyWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
