@@ -1,0 +1,6 @@
+name: Custom JS action
+description: 'Prints a message'
+ 
+runs:
+  using: 'node12'
+  main: 'index.js'
